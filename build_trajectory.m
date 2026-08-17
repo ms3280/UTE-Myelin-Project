@@ -1,4 +1,4 @@
-%% build_trajectory.m
+%% matlab/build_trajectory.m
 %
 % Reconstructs the actual 3D k-space trajectory traversed during
 % acquisition, by reading gradient waveform files exported from the
