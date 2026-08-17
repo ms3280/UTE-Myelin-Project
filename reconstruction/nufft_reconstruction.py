@@ -1,5 +1,5 @@
 """
-reconstruction/nufft_reconstruction.py
+nufft_reconstruction.py
 
 Reconstructs 3D radial (non-Cartesian) MRI k-space data into images using
 adjoint Non-Uniform FFT (NUFFT), run on HPC via torchkbnufft.
