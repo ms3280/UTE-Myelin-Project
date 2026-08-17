@@ -1,4 +1,4 @@
-%% load_kspace_data.m
+%% matlab/load_kspace_data.m
 %
 % Reads raw Siemens .dat (Twix) k-space data using the third-party
 % mapVBVD toolbox (Ehses, P. -- https://github.com/pehses/mapVBVD),
